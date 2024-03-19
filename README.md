@@ -1,0 +1,1 @@
+This document provides an overview of DevOps, a set of principles and practices that promote collaboration and automation between development and operations teams. It explains the benefits of adopting DevOps and highlights some of the key practices involved.
